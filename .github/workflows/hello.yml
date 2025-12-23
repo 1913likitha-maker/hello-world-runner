@@ -1,4 +1,4 @@
-name: Hello World Self Hosted Runner.
+name: Hello World Self Hosted Runner
 
 on:
   push:
